@@ -1,0 +1,107 @@
+.our_planet img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 45%;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+.title{
+	text-align: center;
+    font-size: 70px;
+	color: #1E8449;
+	font-family: Trebuchet MS;
+	margin-top: 20px;
+    margin-bottom: 2px;
+}
+
+.with{
+	text-align: center;
+	color: #95A5A6;
+	font-family: Tahoma;
+	font-size: 20px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.logo img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	margin-top: 2px;
+	margin-bottom: 100px;
+}
+
+.part1 , .part2 , .part3 , .part4 , .part5{
+	font-family: Trebuchet MS;
+	font-size: 40px;
+	color: #50B846;
+	padding-left: 90px;
+	margin-bottom: 15px;
+}
+
+.part1a{
+	font-family: Trebuchet MS;
+	padding-left: 90px;
+	padding-right: 100px;
+}
+
+.cointainer_pie_chart img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+}
+
+.cointainer_line_plot img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+}
+
+.cointainer_bar_chart img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+}
+
+.part5{
+	margin-top: 100px;
+}
+
+.solutions{
+	font-family: Trebuchet MS;
+	margin-top: 1px;
+}
+
+ul{
+	font-family: Trebuchet MS;
+	font-size: 20px;
+}
+
+td{
+	padding-left: 200px;
+	padding-top: 50px;
+	color: #1A5276;
+	font-size: 28px;
+}
+
+.part6{
+	font-family: Trebuchet MS;
+	font-size: 25px;
+	color: #1A5276;
+	padding-left: 50px;
+	margin-top: 100px;
+	margin-bottom: 1px;
+}
+
+.references{
+	font-family: Trebuchet MS;
+	font-size: 15px;
+	padding-left: 50px;
+	margin-top: 1px;
+}
